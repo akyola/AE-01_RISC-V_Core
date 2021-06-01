@@ -1,4 +1,4 @@
-# VLSI2_RISC-V_Core
+# AE-01_RISC-V_Core
 ### A 32-bit RISC-V microprocessor core implementation with Verilog HDL on Vivado Design Suite
 
 The repo contains all the design and simulation sources. Create a new project or directly import the project along with the design files to Vivado.
